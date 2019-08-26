@@ -1,6 +1,6 @@
 # CLS-INSTALLER
 
-#CARA INSTALL C•L•S•TOOLS
+# CARA INSTALL C•L•S•TOOLS
 
 $ pkg install bash 
 $ pkg install git 
